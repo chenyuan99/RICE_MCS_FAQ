@@ -2,6 +2,17 @@
 
 > To save Melissa some work, we thought it might be a good idea to put together some FAQ regarding Rice MCS Fall 2021. Please post your question by creating an issue.
 
+## 时间线
+
+| 日期 | 事件|
+|  ----  | ----  |
+|3.23 | 接ad |
+|3.30 |用学信网发了成绩单|
+|4.2 |回复我说开始处理 |
+|4.3 |收到student id和netid|
+|4.10|交齐OISS需要的材料|
+|4.15|收到SEVIS ID|
+|4.16|收到i20|
 
 ---
 
