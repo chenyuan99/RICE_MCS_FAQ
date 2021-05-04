@@ -2,6 +2,10 @@
 
 > To save Melissa some work, we thought it might be a good idea to put together some FAQ regarding Rice MCS Fall 2021. Please post your question by creating an issue.
 
+## Wiki
+
+https://github.com/chenyuan99/RICE_MCS_FAQ/wiki
+
 ## 时间线
 
 | 日期 | 事件|
